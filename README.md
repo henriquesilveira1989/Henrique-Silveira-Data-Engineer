@@ -8,8 +8,8 @@ My entire career working as consultant and helping my customer to achieve their 
 :dart: I Have experience to build/develop Data Lake, Lake House, DW, EDW, MDW concepts and hands-on <br />
 :dart: I Have experience to build Data Models <br />
 :dart: I Have experience with SQL and NoSql databases <br />
-:dart: I have experiecne with Data Architecture <br />
-:dart: I Have experience with IAC <br />
+:dart: I have experience in build/develop and deploy Data Architecture with IAC <br />
+:dart: I Have experience with Infra-as-Code (IAC) <br />
 :dart: I Have experience to work closer with data science team's to support them to run their algorithms and creating a pipeline End-to-End to delivery their data to the business and setting up all enviroment to data scientist could work/develop their algorithms. <br /> 
 <br /> 
 I Could help you and your organization to achieve the plans to deploy an analytics structure to publics clouds, since the draft of the solution until the onboarding of public cloud. Setting up all Roles/Groups, RBAC, Vnets (VPC, Peerings), VPN (Classic / HA), Firewall Rules, Routes and all resources to Data engineering and Data Science.
