@@ -5,8 +5,8 @@ My entire career working as consultant and helping my customer to achieve their 
 :dart: I Have experience working with Pyspark, Spark, Python and Scala. <br />
 :dart: I Have experience with batch/streaming data. <br />
 :dart: I Have experience with orchestration / Pipelines end-to-end <br />
-:dart: I Have experience with Data Lake, Lake House, DW, EDW, MDW concepts and hands-on <br />
-:dart: I Have experience with Data Modeling <br />
+:dart: I Have experience to build/develop Data Lake, Lake House, DW, EDW, MDW concepts and hands-on <br />
+:dart: I Have experience to build Data Models <br />
 :dart: I Have experience with SQL and NoSql databases <br />
 :dart: I have experiecne with Data Architecture <br />
 :dart: I Have experience with IAC <br />
